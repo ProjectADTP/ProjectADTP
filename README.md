@@ -27,7 +27,7 @@
 | **Документация**  | Тест-кейсы , Чек-листы , Баг-репорты |
 | **Базы данных**   | `SQL` , `MySQL` , Валидация состояния БД |
 | **API**           | `Postman` , `Swagger` , Проверка эндпоинтов |
-| **Сертификат**    | [![Stepik](https://img.shields.io/badge/Software%20testing-black?)](https://stepik.org/cert/3114414?lang=ru) [![iJunior](https://img.shields.io/badge/Manual%20testing-red?)](https://skrinshoter.ru/sZnxhXohwmx)|
+| **Сертификаты**    | [![Stepik](https://img.shields.io/badge/Software%20testing-black?)](https://stepik.org/cert/3114414?lang=ru) [![iJunior](https://img.shields.io/badge/Manual%20testing-red?)](https://skrinshoter.ru/sZnxhXohwmx)|
 
 
 ### Автоматизация тестирования (AQA)
@@ -44,4 +44,4 @@
 | **C# / Web-разработка** |Понимание архитектуры веб-сервисов<br>Базовый опыт работы с ASP.NET Core / Web API<br>Практика написания backend-логики |
 | **Unity / Game Dev**  |Создание прототипов игр на C#<br>Работа с игровыми механиками, сценами, префабами<br>Понимание жизненного цикла разработки игр |
 | **Основы Python**   |Базовые принципы: объекты, функции, пространства имён, классы, наследование<br>Стандартные средства: исключения, модули, итераторы, работа с файлами, лямбда-функции<br>Применение: строки, регулярные выражения, HTTP-запросы (requests), CSV/JSON/XML, работа с API|
-| **Сертификаты**    | [![Stepik](https://img.shields.io/badge/Unity%20developer-black?&logo=unity)](https://stepik.org/cert/3114414?lang=ru)  [![Stepik](https://img.shields.io/badge/Python%20basic-blue?&logo=python&logoColor=white)](https://stepik.org/cert/3124099) [![Stepik](https://img.shields.io/badge/C%23%20developer-gray?)]()|
+| **Сертификаты**    | [![Stepik](https://img.shields.io/badge/Unity%20developer-black?&logo=unity)]()  [![Stepik](https://img.shields.io/badge/Python%20basic-blue?&logo=python&logoColor=white)](https://stepik.org/cert/3124099) [![Stepik](https://img.shields.io/badge/C%23%20developer-gray?)]()|
