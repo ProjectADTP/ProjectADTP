@@ -18,7 +18,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-### Ручное тестирование (Manual QA)
+### Тестирование
 
 | Направление       | Навыки |
 |-------------------|--------|
@@ -29,9 +29,14 @@
 
 
 ### Документация
-**Тест-план**
-[**Отчёт о тестировании коллекции API в среде Postman и Swagger**](https://docs.google.com/document/d/1GWD8TJnKnqle4_jYPjraqBU7GvDf-pPIn9-4YZR3BT4)
-**C# / Web-разработка**
+[**Отчёт о тестировании коллекции API в среде Postman и Swagger**](https://docs.google.com/document/d/1GWD8TJnKnqle4_jYPjraqBU7GvDf-pPIn9-4YZR3BT4)<br>
+[**Отчёт о результатах тестирования API**](https://docs.google.com/document/d/13nylX9-WxyCBM71cTrsrwFaulVvuhfajc0Ob0mX8KdI)<br>
+[**Тестовая модель Веб-страницы**](https://docs.google.com/document/d/1Qdde6XS56ywMggXVNhtqozvd9p5sBVM_UFiv_T4BrLQ)<br>
+[**Отчёт о тестировании макета веб-страницы на соответствие требованиям**](https://docs.google.com/document/d/1m2wxVHMUqky11BYlOoq3cv_opmGNwFMzx1jM2iN9_N8)<br>
+[**Отчёт о проведении анализа требований веб-страницы**](https://docs.google.com/document/d/1jwQNzMDi6OqzdD0PyLCKW1vgkGqErq66Zlr0BSG056g)<br>
+[**Тест-План**](https://docs.google.com/document/d/1hglhax2pPvzRzAhzAtGeTk1N8wXLesW0)<br>
+[**Баг-Репорт**](https://docs.google.com/document/d/1Qe22v1sY11f3GZ6W5wNVYuY3qBtOUa2j2MwzasgLW2I)<br>
+
 
 ### Дополнительные навыки
 
