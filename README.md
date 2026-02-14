@@ -14,7 +14,6 @@
 ![C#](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -24,20 +23,17 @@
 | Направление       | Навыки |
 |-------------------|--------|
 | **Типы тестирования** | Веб, мобильные, игровые приложения<br>Смоук, регрессионное, функциональное |
-| **Документация**  | Тест-кейсы , Чек-листы , Баг-репорты |
 | **Базы данных**   | `SQL` , `MySQL` , Валидация состояния БД |
 | **API**           | `Postman` , `Swagger` , Проверка эндпоинтов |
 | **Сертификаты**    | [![Stepik](https://img.shields.io/badge/Software%20testing-black?)](https://stepik.org/cert/3114414?lang=ru) [![iJunior](https://img.shields.io/badge/Manual%20testing-red?)](https://skrinshoter.ru/sZnxhXohwmx)|
 
 
-### Автоматизация тестирования (AQA)
+### Документация
+**Тест-план**
+[**Отчёт о тестировании коллекции API в среде Postman и Swagger**](https://docs.google.com/document/d/1GWD8TJnKnqle4_jYPjraqBU7GvDf-pPIn9-4YZR3BT4)
+**C# / Web-разработка**
 
-| Направление       | Навыки |
-|-------------------|--------|
-| **Python + Selenium WebDriver** |Написание автотестов для веб-интерфейсов<br>Поиск элементов (XPath, CSS selectors)<br>Ожидания (explicit/implicit waits)<br>Базовая структура тестового фреймворка|
-| **Дополнительно**  |Работа с данными из файлов (JSON, CSV)<br>Интеграция с PyTest / unittest |
-
-### Разработка (дополнительные навыки)
+### Дополнительные навыки
 
 | Направление       | Навыки |
 |-------------------|--------|
