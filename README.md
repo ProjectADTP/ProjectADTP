@@ -1,6 +1,6 @@
 ![Header](https://github.com/ProjectADTP/Andrey-Rybalko/blob/main/Assets/ProfileLogo%20(1).png)
 
-### Manual QA Engineer with Automation & Development Skills
+### Manual QA Engineer with Development Skills
 
 [![Flutter](https://img.shields.io/badge/github-black?logo=github)](https://github.com/ProjectADTP)  [![Flutter](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Umage_s) [![Email](https://img.shields.io/badge/rybalko102@gmail.com-white?logo=gmail)](mailto:rybalko102@gmail.com)
 
