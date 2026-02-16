@@ -28,7 +28,29 @@
 | **Сертификаты**    | [![Stepik](https://img.shields.io/badge/Software%20testing-black?)](https://stepik.org/cert/3114414?lang=ru) [![iJunior](https://img.shields.io/badge/Manual%20testing-red?)](https://skrinshoter.ru/sZnxhXohwmx)|
 
 
-### Документация
+### C# и веб-разработка
+
+| Навык | Применение в практике |
+|-------|------------------------|
+| **Синтаксис и ООП** | Классы, наследование, интерфейсы, полиморфизм, пространства имён |
+| **LINQ** | Фильтрация и преобразование коллекций: `users.Where(u => u.Age > 18).Select(u => u.Name)` |
+| **ASP.NET Core** | Понимание жизненного цикла запроса: контроллер → сервис → репозиторий → база данных |
+| **Работа с файлами** | Чтение/запись JSON, XML через `System.Text.Json`, `XmlSerializer` |
+| **Обработка исключений** | `try/catch/finally`, кастомные исключения для валидации бизнес-логики |
+| **Практика** | [Децентрализованная система управления информацией о публикационной активности](https://github.com/ProjectADTP/CALS.API) <br> [Система управления заказами на предприятии по производству корпусной мебели](https://github.com/ProjectADTP/FurManager) <br> [Система данных для виртуальной лаборатории (https://github.com/ProjectADTP/WebLab) <br>|
+
+
+### SQL для тестирования бэкенда
+
+| Навык | Пример запроса |
+|-------|----------------|
+| **Базовые SELECT** | `SELECT name, email FROM users WHERE active = 1` |
+| **JOIN'ы** | `SELECT o.id, u.name FROM orders o JOIN users u ON o.user_id = u.id` |
+| **Агрегация** | `SELECT category, COUNT(*) FROM products GROUP BY category HAVING COUNT(*) > 5` |
+| **Подзапросы** | `SELECT name FROM users WHERE id IN (SELECT user_id FROM orders WHERE amount > 1000)` |
+
+
+### Тестовая документация
 [**Отчёт о тестировании коллекции API в среде Postman и Swagger**](https://docs.google.com/document/d/1GWD8TJnKnqle4_jYPjraqBU7GvDf-pPIn9-4YZR3BT4)<br>
 [**Отчёт о результатах тестирования API**](https://docs.google.com/document/d/13nylX9-WxyCBM71cTrsrwFaulVvuhfajc0Ob0mX8KdI)<br>
 [**Тестовая модель Веб-страницы**](https://docs.google.com/document/d/1Qdde6XS56ywMggXVNhtqozvd9p5sBVM_UFiv_T4BrLQ)<br>
@@ -42,7 +64,6 @@
 
 | Направление       | Навыки |
 |-------------------|--------|
-| **C# / Web-разработка** |Понимание архитектуры веб-сервисов<br>Базовый опыт работы с ASP.NET Core / Web API<br>Практика написания backend-логики |
-| **Unity / Game Dev**  |Создание прототипов игр на C#<br>Работа с игровыми механиками, сценами, префабами<br>Понимание жизненного цикла разработки игр |
+| **Unity / Game Dev**  |Создание прототипов игр на C#<br>Работа с игровыми механиками, сценами, префабами<br>Понимание жизненного цикла разработки игр <br> [2D Platformer] (https://github.com/ProjectADTP/2D-Platformer) <br> [Web Game: Rebel Echoes](https://github.com/ProjectADTP/RebelEchoes)|
 | **Основы Python**   |Базовые принципы: объекты, функции, пространства имён, классы, наследование<br>Стандартные средства: исключения, модули, итераторы, работа с файлами, лямбда-функции<br>Применение: строки, регулярные выражения, HTTP-запросы (requests), CSV/JSON/XML, работа с API|
-| **Сертификаты**    | [![Unity](https://img.shields.io/badge/Unity%20developer-black?&logo=unity)](https://skrinshoter.ru/sa6LmHJpzEi)  [![Stepik](https://img.shields.io/badge/Python%20basic-blue?&logo=python&logoColor=white)](https://stepik.org/cert/3124099) [![Stepik](https://img.shields.io/badge/C%23%20developer-gray?)]()|
+| **Сертификаты**    | [![Unity](https://img.shields.io/badge/Unity%20developer-black?&logo=unity)](https://skrinshoter.ru/sa6LmHJpzEi)  [![Stepik](https://img.shields.io/badge/Python%20basic-blue?&logo=python&logoColor=white)](https://stepik.org/cert/3124099)|
