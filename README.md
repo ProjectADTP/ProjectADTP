@@ -64,6 +64,6 @@
 
 | Направление       | Навыки |
 |-------------------|--------|
-| **Unity / Game Dev**  |Создание прототипов игр на C#<br>Работа с игровыми механиками, сценами, префабами<br>Понимание жизненного цикла разработки игр <br> [2D Platformer] (https://github.com/ProjectADTP/2D-Platformer) <br> [Web Game: Rebel Echoes](https://github.com/ProjectADTP/RebelEchoes)|
+| **Unity / Game Dev**  |Создание прототипов игр на C#<br>Работа с игровыми механиками, сценами, префабами<br>Понимание жизненного цикла разработки игр <br> [2D Platformer](https://github.com/ProjectADTP/2D-Platformer) <br> [Web Game: Rebel Echoes](https://github.com/ProjectADTP/RebelEchoes)|
 | **Основы Python**   |Базовые принципы: объекты, функции, пространства имён, классы, наследование<br>Стандартные средства: исключения, модули, итераторы, работа с файлами, лямбда-функции<br>Применение: строки, регулярные выражения, HTTP-запросы (requests), CSV/JSON/XML, работа с API|
 | **Сертификаты**    | [![Unity](https://img.shields.io/badge/Unity%20developer-black?&logo=unity)](https://skrinshoter.ru/sa6LmHJpzEi)  [![Stepik](https://img.shields.io/badge/Python%20basic-blue?&logo=python&logoColor=white)](https://stepik.org/cert/3124099)|
